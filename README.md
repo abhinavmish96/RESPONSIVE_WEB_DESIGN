@@ -1,4 +1,4 @@
-# HTML/HTML5 Projects
+# Responsive Web design
 
 <!-- ## This [website](https://javascriptbyexample.com/) is one of the best resource I have ever encounterd to learn go. -->
 
